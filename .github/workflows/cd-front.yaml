@@ -22,5 +22,5 @@ jobs:
         with:
           context: ./hangman-front
           push: true
-          tags: dcarballor/hangman-front:latest
+          tags: dcarballodocker/hangman-front:latest
           file: ./hangman-front/Dockerfile
